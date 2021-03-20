@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright © 2020-21 Project Sakura
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sakura_settings_title">樱花</string>
+    <string name="sakura_dashboard_summary">让我们为你带来春天的感受。</string>
+
+    <!-- ROM Info -->
+    <string name="sakura_about_info">关于项目</string>
+    <string name="sakura_about_info_summary_title">关于我们团队</string>
+    <string name="sakura_about_info_summary">一个加入拓展功能的Lineage OS. 它以Lineage OS作为基础并在其基础上添加各种拓展设置。</string>
+
+    <!-- Dev Info -->
+    <string name="devs_header">开发者们</string>
+    <string name="dev_1">LordShenron</string>
+    <string name="dev1_description">创始人/工程师</string>
+    <string name="dev_3">Arun Teltia</string>
+    <string name="dev3_description">前端开发工程师</string>
+
+    <!-- Maintainer Info -->
+    <string name="maintainers_header">维护者们</string>
+    <string name="maintainers_header_summary">这些是官方设备的维护人员。。。</string>
+    
+    <!-- Asus -->
+    <string name="device_asus">华硕</string>
+    <string name="device_X00T">ZenFone Max Pro M1</string>
+    <string name="device_X00T_description">X00T\nShen</string>
+
+    <!-- Dead LeEco -->
+    <string name="device_leeco">乐视</string>
+    <string name="device_s2">LeEco Le 2 </string>
+    <string name="device_s2_description">S2\nCakesTwix</string> 
+    
+    <!-- No more flagship killer -->   
+    <string name="device_oneplus">一加</string>
+    <string name="device_oneplus3">OnePlus 3 and 3T </string>
+    <string name="device_oneplus3_description">oneplus3\nDeepak Jr</string> 
+    <string name="device_oneplus6">OnePlus 6 </string>
+    <string name="device_oneplus6_description">enchilada\neduardo</string>     
+
+    <!-- Realmeme -->
+    <string name="device_realme">Realme</string>
+    <string name="device_cph1859">Realme 1 </string>
+    <string name="device_cph1859_description">CPH1859\nCyberJalagam</string> 
+    <string name="device_rmx2001">Realme 6 </string>
+    <string name="device_rmx2001_description">RMX2001\nTanmay</string>
+    
+    <!-- Lagsung -->
+    <string name="device_samsung">三星</string>
+    <string name="device_a10">Galaxy A10</string>
+    <string name="device_a10_description">a10\nchatur</string>
+    <string name="device_a20">Galaxy A20</string>
+    <string name="device_a20_description">a20\nchatur</string>
+    <string name="device_j4prime">Galaxy J4Prime LTE</string>
+    <string name="device_j4prime_description">j4primelte\nGabriel</string>
+    <string name="device_m20lte">Galaxy M20</string>
+    <string name="device_m20lte_description">m20lte\nHaridhayal</string>	
+
+    <!--Gayzu-->
+    <string name="device_meizu">魅族</string>
+    <string name="device_m1882">Meizu 16th</string>
+    <string name="device_m1882_description">m1882\nAbdibekov Dauren</string>
+
+    <!-- chinese spy -->
+    <string name="device_xiaomi">小米</string>
+
+    <!--Mi-->
+    <string name="device_gauguin">Mi 10i 5G | Mi 10T Lite</string>
+    <string name="device_gauguin_description">gauguin\nPrajwal and Nitish</string>
+    <string name="device_tucana">Mi Note 10</string>
+    <string name="device_tucana_description">tucana\nAlexander</string>
+    <string name="device_wayne">Mi 6X</string>
+    <string name="device_wayne_description">wayne\nMarcos Almeida</string>
+    <string name="device_tissot">Mi A1</string>
+    <string name="device_tissot_description">tissot\nRoger W.</string>
+
+    <!--poco-->
+    <string name="device_phoenix">Poco X2</string>
+    <string name="device_phoenix_description">phoenix\nShivam</string>
+    <string name="device_surya">Poco X3</string>
+    <string name="device_surya_description">surya\nArmSM and Agus</string>    
+
+    <!--redmi-->
+    <string name="device_davinci">Redmi K20</string>
+    <string name="device_davinci_description">davinci\nGabriel</string>      
+    <string name="device_sakura">Redmi 6 Pro</string>
+    <string name="device_sakura_description">sakura\nAlex</string>     
+    <string name="device_whyred">Redmi Note 5 Pro</string>
+    <string name="device_whyred_description">whyred\nDarkstar</string>       
+    <string name="device_violet">Redmi Note 7 Pro</string>
+    <string name="device_violet_description">violet\nSpicyDoughnut</string>  
+	
+    <!-- Categories -->
+    <string name="gestures_title">手势</string>
+    <string name="sakura_gesture_summary_title">三指滑动, 布局 和 AOSP原生手势</string>    
+    <string name="lockscreen_title">锁屏</string>
+    <string name="sakura_lockscreen_summary_title">锁定屏幕充电 和 锁定屏幕安全</string>        
+    <string name="misc_title">杂项</string>
+    <string name="sakura_misc_summary_title">游戏模式和其它选项</string>        
+    <string name="parts_title">LineageOS部分功能</string>
+    <string name="sakura_parts_summary_title">状态栏, 按钮 和 其它LineageOS的设置</string>
+    <string name="quicksettings_title">下拉菜单</string>
+    <string name="sakura_quicksettings_summary_title">选项标题, 顶部图片, 不透明度</string>        
+    <string name="interface_title">界面</string>
+    <string name="sakura_interface_summary_title">主题, 电量条 和 网络流量监控</string>            
+    <string name="animation_title">动画</string>
+    <string name="sakura_animation_summary_title">开启和关闭动画</string>        
+    <string name="notifications_title">通知</string>
+    <string name="sakura_notifications_summary_title">提醒, 提示灯, 振动选项</string>        
+    <string name="sakura_updater_summary_title">更新</string>        
+    <string name="updater_title">樱花的OTA更新（16s会有吗？）</string>
+    <string name="buttons_settings">按键设置</string>
+    <string name="buttons_settings_summary">LineageOS按键设置</string>
+    <string name="statusbar_settings">状态栏设置</string>
+    <string name="statusbar_settings_summary">LineageOS状态栏设置</string>    
+
+    <!-- sub categories -->
+    <string name="themes_ui_settings">主题和界面设置</string>
+    <string name="misc_interface_settings">界面的其他选项</string>
+    <string name="lockscreen_ui_settings">锁屏界面</string>
+    <string name="secure_lockscreen_settings">锁定屏幕安全</string>    
+    <string name="headsup_settings">系统通知</string>    
+    <string name="horizon_light_settings">AOD通知</string>
+    <string name="misc_qs_settings">下拉菜单选项杂项设置</string>          
+    
+    <!-- General strings -->
+    <string name="ok">确定</string>
+    <string name="reset">重置</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">挑选颜色</string>
+    <string name="press_color_to_apply">按下所提供的颜色</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">设置</string>
+    <string name="color_default">默认值</string>
+
+    <!-- Battery Bar -->
+    <string name="battery_bar_title">电量条</string>
+    <string name="battery_bar_summary">在状态栏上方显示和自定义电量条</string>
+    <string name="battery_bar">Location</string>
+    <string name="battery_bar_no_navbar">Location</string>
+    <string name="battery_bar_location_hide">隐藏</string>
+    <string name="battery_bar_location_statusbar">Statusbar</string>
+    <string name="battery_bar_location_top_navbar">Top of navbar</string>
+    <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
+    <string name="battery_bar_color">颜色</string>
+    <string name="battery_bar_charging_color">充电中</string>
+    <string name="battery_bar_battery_low_color">电量低</string>
+    <string name="battery_bar_cat">风格</string>
+    <string name="battery_bar_style_title">Alignment</string>
+    <string name="battery_bar_thickness_title">Thickness</string>
+    <string name="battery_bar_animate_title">Charging animation</string>
+    <string name="battery_bar_style_regular">Regular</string>
+    <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
+    <string name="battery_bar_style_reversed">Reversed</string>
+    <string name="battery_bar_use_charging_color">Custom charging color</string>
+    <string name="battery_bar_blend_color_title">Blend colors</string>
+    <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
+    <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
+
+    <!-- QS rows and columns -->
+    <string name="sysui_qqs_count_title">列（下拉菜单选项）</string>
+    <string name="qs_layout_category">布局</string>
+    <string name="qs_column_rows_settings_title">下拉菜单选项面板设置</string>
+    <string name="qs_columns_rows_category_title">下拉菜单选项 列和行</string>
+    <string name="qs_rows_columns_title">下拉菜单选项 行和列</string>
+    <string name="qs_rows_portrait_title">行 (纵向)</string>
+    <string name="qs_rows_landscape_title">行 (横向)</string>
+    <string name="qs_columns_portrait_title">列 (纵向)</string>
+    <string name="qs_columns_landscape_title">列 (横向)</string>
+
+    <!--QS tile title visibility-->
+    <string name="qs_tile_title_visibility_title">下拉菜单选项标题</string>
+    <string name="qs_tile_title_visibility_summary">在每个菜单选项下面显示标题</string>
+
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">一摸就动</string>
+    <string name="quick_settings_vibrate_summary">在触摸的时候振动</string>
+
+    <!-- QuickSettings Panel Transparency -->
+    <string name="qs_panel_alpha_title">下拉菜单不透明度</string>
+    <string name="qs_panel_alpha_summary">设置下拉菜单背景的不透明度</string>
+
+      <!-- Custom headers -->
+    <string name="notification_title">通知面板</string>
+    <string name="status_bar_custom_header_title">开启</string>
+    <string name="daylight_header_pack_title">顶部图片合集</string>
+    <string name="status_bar_custom_header_shadow_title">顶部图片遮罩</string>
+    <string name="status_bar_custom_header_shadow_summary">在明亮的图像上获得更好的可见性</string>
+    <string name="unit_percent">\u0025</string>
+    <string name="static_header_provider" translatable="false">静止的</string>
+    <string name="daylight_header_provider" translatable="false">daylight</string>
+    <string name="static_header_provider_title">Static image</string>
+    <string name="daylight_header_provider_title">图片合集</string>
+    <string name="custom_header_provider_title">提供商</string>
+    <string name="custom_header_pick_title">挑选顶部图片</string>
+    <string name="custom_header_pick_summary">选择本地或远程的图片</string>
+    <string name="style_enabled_summary">已开启自定义顶图</string>
+    <string name="style_disabled_summary">已关闭自定义顶图</string>
+    <string name="header_provider_disabled">关闭</string>
+    <string name="custom_header_title">自定义顶部图片</string>
+    <string name="file_header_select_title">挑选一张本地图片</string>
+    <string name="file_header_select_summary">从内置储存中选择图片</string>
+    <string name="file_header_provider_title">单张图片</string>
+    <string name="file_header_provider" translatable="false">file</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="screenshot_gestures">屏幕手势</string>    
+    <string name="three_finger_gesture">三指截图</string>
+    <string name="three_finger_gesture_summary">向下滑动三个手指，取得屏幕截图</string>
+
+    <!-- AOKP custom system animations -->
+    <string name="system_animation_title">系统</string>
+    <string name="activity_open_title">Activity open animation</string> 
+    <string name="activity_close_title">Activity close animation</string>
+    <string name="task_open_title">Task open animation</string>
+    <string name="task_open_behind_title">Task open behind animation</string>
+    <string name="task_close_title">Task close animation</string>
+    <string name="task_move_to_front_title">Move to front animation</string> 
+    <string name="task_move_to_back_title">Move to back animation</string>
+    <string name="wallpaper_open_title">Wallpaper open animation</string>
+    <string name="wallpaper_close_title">Wallpaper close animation</string> 
+    <string name="wallpaper_intra_open_title">Wallpaper intra open animation</string>
+    <string name="wallpaper_intra_close_title">Wallpaper intra close animation</string>
+    <string name="animation_duration_title">Animation duration</string> 
+    <string name="title_animation_no_override">Prevent app overrides</string>
+    <string name="summary_animation_no_override">Prevent apps from overriding transitions</string> 
+    <string name="animation_duration_default">Default</string>
+
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">电源菜单</string>
+    <string name="lockscreen_enable_power_menu_summary">允许在锁屏上使用电源菜单</string>
+    <string name="lockscreen_secure_power_menu_title">锁定电源菜单</string>
+    <string name="lockscreen_secure_power_menu_summary">只有在解锁后才能使用电源菜单</string>
+
+    <!-- Units -->
+    <string name="unit_seconds">秒</string>
+    <string name="unit_milliseconds">毫秒</string>
+    <string name="unit_pixels">dp</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">锁屏充电信息</string>
+    <string name="lockscreen_battery_info_summary">充电时在锁屏上显示充电的最大电流和电压以及电池温度</string>
+
+    <!-- Heads up -->
+    <string name="heads_up_notifications">通知菜单</string>
+    <string name="heads_up_summary">开启或关闭提醒，控制通知菜单</string>    
+    <string name="summary_heads_up_enabled">弹出通知已开启</string>
+    <string name="summary_heads_up_disabled">弹出通知已关闭</string>
+    <string name="add_heads_up_package">添加应用</string>
+    <string name="add_heads_up_stoplist_summary">为这些应用关闭弹出菜单</string>
+    <string name="add_heads_up_blacklist_summary">将这些应用加入弹出菜单黑名单</string>
+    <string name="heads_up_stoplist_title">关闭列表</string>
+    <string name="heads_up_blacklist_title">黑名单</string>
+    <string name="profile_choose_app">选择应用</string>
+    <string name="dialog_delete_title">删除</string>
+    <string name="dialog_delete_message">将这些项目移除吗?</string>
+
+    <!-- Heads up options -->
+    <string name="less_boring_heads_up_title">少一些无聊的通知</string>
+    <string name="less_boring_heads_up_summary">只显示电话，短信和闹钟的通知</string>
+
+    <!-- AOSP Gestures -->
+    <string name="system_gestures">系统手势</string>
+    <string name="aosp_gesture_title">AOSP原生手势设置</string>
+    <string name="aosp_gesture_summary">Aosp全面屏手势, 药丸按钮 , 3大金刚键</string>    
+
+    <!--dashboard icons-->
+    <string name="theming_settings_dashboard_icons_title">设置面板图标</string>
+    <string name="theming_settings_dashboard_icons_default2">默认背景</string>
+    <string name="theming_settings_dashboard_icons_default_accent2">Accent background</string>
+    <string name="theming_settings_dashboard_icons_plain">Plain</string>
+    <string name="theming_settings_dashboard_icons_plain_accent">Plain accent</string>
+    <string name="theming_settings_dashboard_icons_default_oneplus">一加</string>
+
+    <!-- Statusbar net monitor -->
+    <string name="traffic_title">网络流量监控器</string>
+    <string name="traffic_summary">在下拉菜单和状态栏中显示网络流量监视器</string>    
+    <string name="network_traffic_state_title">网络流量监控</string>
+    <string name="network_traffic_state_summary">在状态栏中显示网络活动</string>
+    <string name="network_traffic">网络流量监控</string>
+    <string name="network_traffic_location">网络流量监控器位置</string>
+    <string name="traffic_disabled">关闭</string>
+    <string name="traffic_statusbar">状态栏</string>
+    <string name="traffic_expanded_statusbar">下拉菜单上方</string>
+    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
+    <string name="network_traffic_arrow">显示箭头/</string>
+    <string name="network_traffic_arrow_summary">显示网络流量监控器小箭头</string>
+    <string name="network_traffic_type">选择网络活动显示类型</string>
+    <string name="show_network_traffic_combined">合并（上传 + 下载）</string>
+    <string name="show_network_traffic_dynamic">自动</string>
+    <string name="show_network_traffic_up">上传</string>
+    <string name="show_network_traffic_down">下载</string>
+    <string name="show_network_traffic_all">同时</string>
+    <string name="network_traffic_layout">布局</string>
+    <string name="network_traffic_layout_h">水平</string>
+    <string name="network_traffic_layout_v">垂直</string>
+    <string name="nettraf_font_size">字体大小</string>
+
+    <!-- volte icon toggle -->
+    <string name="volte_icon_title">VoLTE图标</string>
+    <string name="volte_icon_summary">如果已在运营商开通并且在支持的情况下显示VoLTE图标</string>
+
+    <!--bluetooth battery level -->
+    <string name="bluetooth_battery_title">蓝牙电量</string>
+    <string name="bluetooth_battery_summary">如果蓝牙设备支持，将在蓝牙图标旁显示已连接的蓝牙设备电量</string>
+
+    <!-- Screenshot Sound  -->
+    <string name="screenshot_sound_title">截图提示音</string>
+    <string name="screenshot_sound_summary">截图时’叮‘地一下</string>
+
+    <string name="audio_panel_view_timeout_title">音量菜单显示时间</string>
+
+    <!-- Gaming mode -->
+    <string name="gaming_mode_title">游戏模式</string>
+    <string name="gaming_mode_summary">自定义游戏模式首选项</string>
+    <string name="gaming_mode_enabled_summary">允许开启游戏模式</string>
+    <string name="gaming_mode_app_picker_title">为这些应用开启游戏模式</string>
+    <string name="add_gaming_mode_package_title">添加应用</string>
+    <string name="add_gaming_mode_package_summary">游戏模式将自动在这些应用程序打开时开启，这些应用程序退出时关闭</string>
+    <string name="gaming_mode_headsup_title">关闭通知</string>
+    <string name="gaming_mode_headsup_summary">除了电话和闹钟</string>
+    <string name="gaming_mode_hardware_keys_title">锁定屏幕按钮</string>
+    <string name="gaming_mode_hardware_keys_summary">当游戏模式开启时，屏幕按钮将被锁定</string>
+    <string name="gaming_mode_brightness_title">关闭自动亮度</string>
+    <string name="gaming_mode_brightness_summary">打开游戏模式时锁定屏幕亮度</string>
+    <string name="gaming_mode_ringer_title">游戏模式中响铃</string>
+    <string name="gaming_mode_ringer_off_title">不要改动</string>
+    <string name="gaming_mode_ringer_vibrate_title">振动</string>
+    <string name="gaming_mode_ringer_dnd_title">请勿打扰</string>
+    <string name="gaming_mode_ringer_silent_title">无声</string>
+    <string name="gaming_mode_notifications_title">游戏模式指示</string>
+    <string name="gaming_mode_notifications_off_title">关闭</string>
+    <string name="gaming_mode_notifications_notif_title">显示屏幕通知</string>
+    <string name="gaming_mode_notifications_toast_title">显示屏幕提示</string>
+    <string name="gaming_mode_notifications_all_title">显示屏幕提示和通知</string>
+    <string name="gaming_mode_dynamic_title">自动模式</string>
+    <string name="gaming_mode_dynamic_summary">自动选择应用加入游戏模式</string>
+
+    <!--qs tint toggle-->
+    <string name="qs_bg_use_new_tint">下拉菜单色调切换</string>
+    <string name="qs_bg_use_new_tint_summary">对下拉菜单图标和背景使用强调色（需要重新启动系统界面）</string>
+
+    <!-- Horizon light -->
+    <string name="default_string">Default</string>
+    <string name="horizon_light_title">Horizon light</string>
+    <string name="horizon_light_summary">Light ambient edges for pulsing notifications</string>
+    <string name="horizon_light_enabled_title">Show on AOD</string>
+    <string name="aod_disabled">AOD is disabled</string>
+    <string name="horizon_light_enabled_summary">Keep showing horizon light on AOD</string>
+    <string name="horizon_light_hide_aod_title">Hide AOD content</string>
+    <string name="horizon_light_hide_aod_summary">Hide AOD content when edges are lighted</string>
+    <string name="horizon_light_duration_title">Duration</string>
+    <string name="horizon_light_duration_summary">Time it takes for each animation to complete</string>
+    <string name="horizon_light_repeats_title">Repeats</string>
+    <string name="horizon_light_repeats_summary">Amount of times the animation should show\n0 for infinite</string>
+    <string name="horizon_light_timeout_title">Timeout</string>
+    <string name="horizon_light_timeout_forever">Forever</string>
+    <string name="horizon_light_timeout_half_minute">30 seconds</string>
+    <string name="horizon_light_timeout_minute">1 minute</string>
+    <string name="horizon_light_timeout_three_minutes">3 minutes</string>
+    <string name="horizon_light_timeout_five_minutes">5 minutes</string>
+    <string name="horizon_light_timeout_ten_minutes">10 minutes</string>
+    <string name="set_to_zero">Set repeats to 0 to enable</string>
+    <string name="horizon_color_mode_title">Color mode</string>
+    <string name="horizon_color_mode_accent">Accent color</string>
+    <string name="horizon_color_mode_wall">Wallpaper dominant color</string>
+    <string name="horizon_color_mode_notification">Notification icon color</string>
+    <string name="horizon_color_mode_custom">@string/horizon_light_color_title</string>
+    <string name="horizon_light_color_title">Custom color</string>
+
+    <!-- Oneui -->
+    <string name="enable_oneui">OneUI设置操作栏</string>
+    <string name="enable_oneui_summary">在设置操作栏上方显示间隔符以便单手使用\n注意：重新启动设置应用程序以查看效果</string>
+
+    <!-- Themes -->  
+    <string name="theme_type_title">樱花的主题</string>
+    <string name="theme_type_summary">选择主题</string>
+    <string name="theme_type_light">Light</string>
+    <string name="theme_type_pitch_black">Google Grey</string>
+    <string name="theme_type_solarized_dark">Solarized dark</string>
+    <string name="theme_type_baked_green">Baked Green</string>
+    <string name="theme_type_choco_x">Choco X</string>
+    <string name="theme_type_du_pitchblack">Pitch black</string>
+    <string name="theme_type_material_ocean">Material Ocean</string>
+    <string name="theme_type_style_mizu">水</string>
+
+    <!-- gvisual mod -->
+    <string name="gvisual_title">视觉</string>
+    <string name="rounded_ui_title">圆角</string>
+    <string name="rounded_ui_dialog_title">选择圆角风格</string>
+    <string name="rounded_style_default">默认</string>
+    <string name="rounded_style_rectangle">长方形</string>
+    <string name="rounded_style_large">大</string>
+    <string name="rounded_style_medium">中等</string>
+    <string name="statusbar_height_title">状态栏高度</string>
+    <string name="statusbar_height_dialog_title">选择状态栏高度模式</string>
+    <string name="sb_height_default">默认</string>
+    <string name="sb_height_medium">中等</string>
+    <string name="sb_height_large">大</string>
+    <string name="sb_height_extralarge">巨大</string>
+
+    <!-- Screen off animation -->
+    <string name="screen_off_animation_title">屏幕关闭动画</string>
+    <string name="screen_off_animation_default">默认</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">缩放</string>
+    <string name="screen_off_animation_summary">锁屏的Crt和缩放动画</string>
+
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">来电振动</string>
+    <string name="incall_vibrate_connect_title">连接时振动</string>
+    <string name="incall_vibrate_call_wait_title">通话等待时振动</string>
+    <string name="incall_vibrate_disconnect_title">断开时振动</string>
+
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">音量步进</string>
+    <string name="volume_steps_summary">Customize no. of steps in volume panel</string>
+    <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
+    <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
+    <string name="volume_steps_music_title">Volume steps: Music</string>
+    <string name="volume_steps_notification_title">Volume steps: Notification</string>
+    <string name="volume_steps_ring_title">Volume steps: Ringer</string>
+    <string name="volume_steps_system_title">Volume steps: System</string>
+    <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
+    <string name="volume_steps_reset">Reset</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+
+    <!-- Navbar layout options -->
+    <string name="navbar_layout_title">布局</string>
+    <string name="navbar_layout_normal">正常</string>
+    <string name="navbar_layout_compact">紧凑</string>
+    <string name="navbar_layout_leftleaning">习惯左手</string>
+    <string name="navbar_layout_rightleaning">习惯右手</string>
+    <string name="navbar_invert_layout_title">反布局</string>
+
+    <!-- Roaming indicator icon -->
+    <string name="roaming_indicator_icon_title">漫游指示器</string>
+    <string name="roaming_indicator_icon_summary">漫游模式下，在信号图标中显示数据漫游提示</string>
+
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">4G图标</string>
+    <string name="show_fourg_icon_summary">用4G代替LTE图标</string>
+
+    <!-- Data disabled indicator -->
+    <string name="data_disabled_icon_title">数据禁用提醒</string>
+    <string name="data_disabled_icon_summary">在移动数据关闭的时候放个‘X’在上面</string>
+
+    <!-- Old mobiletype icon style -->
+    <string name="old_mobiletype_title">旧的图标风格</string>
+    <string name="old_mobiletype_summary">合并信号和信号类型图标</string>
+
+    <!-- Notifications while screen on -->
+    <string name="notification_sound_vib_screen_on_title">通知提醒</string>
+    <string name="notification_sound_vib_screen_on_summary">当屏幕打开时播放声音和振动以获得通知</string>
+
+    <!-- qs media player -->
+    <string name="qs_media_player_title">下拉菜单媒体播放器</string>
+    <string name="qs_media_player_summary_on">在下拉菜单显示媒体播放器.\n需要重新启动系统界面</string>
+    <string name="qs_media_player_summary_off">将媒体播放器作为通知显示.\n需要重新启动系统界面</string>
+
+    <!-- QS DataUsage Toggle -->
+    <string name="qs_datausage_title">在下拉菜单显示数据使用量</string>
+    <string name="qs_datausage_disabled">Disabled</string>
+    <string name="qs_datausage_daily">日用量</string>
+    <string name="qs_datausage_monthly">月用量</string>
+
+    <!-- Omni Jaws -->
+    <string name="weather_title">天气</string>
+    <string name="weather_summary">OmniJaws天气设置</string>
+    <string name="weather_config_title">天气服务</string>
+    <string name="weather_config_summary">系统服务设置</string>
+    <string name="header_weather_title">Header view weather</string>
+    <string name="header_weather_summary">Enable notification panel header weather display</string>
+    <string name="weather_icon_pack_title">Condition icon pack</string>
+    <string name="weather_icon_pack_note">Note\u003a you can install new icon packs from play store by searching for \"Chronus icons\"</string>
+    <string name="weather_icon_pack_info_title">Condition icon pack is used in quick settings and lock screen</string>
+    <string name="lockscreen_weather_title">Show weather condition</string>
+    <string name="lockscreen_weather_summary">Show current weather condition and temperature</string>
+    <string name="lock_screen_weather_style_title">Weather style</string>
+    <string name="lock_screen_weather_style_summaryOff">Weather is shown below date line with location</string>
+    <string name="lock_screen_weather_style_summaryOn">Weather is shown on the date line without location</string>
+
+</resources>
